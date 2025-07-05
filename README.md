@@ -7,10 +7,11 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Angie 
 - [BlocklistProject – Lists](https://github.com/blocklistproject/Lists)
 - [DNSFilter Threat Intelligence](https://github.com/DNSFilter/dnsfilter-threat-intelligence)
 - [StevenBlack hosts](https://github.com/StevenBlack/hosts)
-- [AdGuard DNS Filters (mirrored)](https://adguardteam.github.io/AdGuardSDNSFilter/)
 - [ThreatFox IOC Browser](https://threatfox.abuse.ch/browse/)
-- [URLhaus – Malware Domains](https://urlhaus.abuse.ch/downloads/)
 - [Spamhaus DROP List (IPs maliciosas)](https://www.spamhaus.org/drop/)
+
+## Criterios de búsqueda:
+## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
 
 ## Archivos en este repositorio:
 
