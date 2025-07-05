@@ -5,7 +5,6 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Angie 
 ## Fuentes confiables utilizadas:
 
 - [BlocklistProject – Lists](https://github.com/blocklistproject/Lists)
-- [DNSFilter Threat Intelligence](https://github.com/DNSFilter/dnsfilter-threat-intelligence)
 - [StevenBlack hosts](https://github.com/StevenBlack/hosts)
 - [ThreatFox IOC Browser](https://threatfox.abuse.ch/browse/)
 - [Spamhaus DROP List (IPs maliciosas)](https://www.spamhaus.org/drop/)
