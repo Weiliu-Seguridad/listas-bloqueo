@@ -4,8 +4,18 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Angie 
 
 ## Fuentes confiables utilizadas:
 
-- [BlocklistProject – Lists](https://github.com/blocklistproject/Lists)
-- [StevenBlack hosts](https://github.com/StevenBlack/hosts)
+- BlocklistProject – Lists (https://github.com/blocklistproject/Lists)
+- StevenBlack hosts (https://github.com/StevenBlack/hosts)
+
+- BlocklistProject – Lista de drogas (drugs.txt)
+  https://github.com/blocklistproject/Lists/blob/master/drugs.txt
+- StevenBlack – Hosts extendidos (porn/social/gambling/fakenews)
+  https://github.com/StevenBlack/hosts
+- HaGeZi Blocklists – Pro++ (pro.plus.txt)
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
+  https://github.com/hagezi/dns-blocklists/tree/main/domains
+- HaGeZi – Threat Intelligence Feed (tif.txt)
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
   
 ## Criterios de búsqueda:
 ## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
