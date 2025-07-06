@@ -17,7 +17,7 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Angie 
 | `csam_hosts.txt`      | Dominios filtrados de contenido ilegal (CSAM) |
 | `abuse_ips.txt`       | IPs asociadas a tráfico malicioso           |
 | `malware_domains.txt` | Dominios de malware o phishing              |
-| `violencia_ilicita.txt`| Lista personalizada con dominios propios   |
+| `trafico_ilicito.txt`| Lista personalizada con dominios propios   |
 | `phishing_list.txt`| Dominios de phishing    |
 | `ip_mineria.txt` | Dominios de mineria         |
 | `iptv_block.txt` | Dominios de pirateria         |
