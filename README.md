@@ -1,6 +1,6 @@
 # WEINET – Listas de bloqueo personalizadas
 
-Este repositorio contiene archivos de seguridad filtrados manualmente por Angie para ser usados en MikroTik.
+Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. Angie Jara responsable de la red de WeiNet para ser usados en MikroTik.
 
 ## Fuentes confiables utilizadas:
 
@@ -19,6 +19,7 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Angie 
   
 ## Criterios de búsqueda:
 ## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
+## arms, gun, weapon, drugs, cocaine, heroine, meth, fentanyl, opiate, trafficking, humantraffiking, torture, gore, murder, rape, terror, darkweb, blackmarket, deepweb
 
 ## Archivos en este repositorio:
 
