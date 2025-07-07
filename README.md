@@ -4,7 +4,10 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
 
 ## Fuentes confiables utilizadas:
 
-- BlocklistProject – Lists (https://github.com/blocklistproject/Lists)
+- BlocklistProject – Lista de abuse (abuse.txt)
+  https://github.com/blocklistproject/Lists/blob/master/abuse.txt
+- BlocklistProject – Lista de porn (porn.txt)
+  https://github.com/blocklistproject/Lists/blob/master/porn.txt
 - StevenBlack hosts (https://github.com/StevenBlack/hosts)
 
 - BlocklistProject – Lista de drogas (drugs.txt)
@@ -20,16 +23,16 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
 ## Criterios de búsqueda:
 ## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
 ## arms, gun, weapon, drugs, cocaine, heroine, meth, fentanyl, opiate, trafficking, humantraffiking, torture, gore, murder, rape, terror, darkweb, blackmarket, deepweb
+## sendero luminoso, camarada gonzalo, etc.
 
 ## Archivos en este repositorio:
 
 | Archivo               | Descripción                               |
 |-----------------------|--------------------------------------------|
-| `csam_hosts.txt`      | Dominios filtrados de contenido ilegal (CSAM) |
-| `abuse_ips.txt`       | IPs asociadas a tráfico malicioso           |
-| `malware_domains.txt` | Dominios de malware o phishing              |
-| `trafico_ilicito.txt`| Lista personalizada con dominios propios   |
-| `phishing_list.txt`| Dominios de phishing    |
-| `ip_mineria.txt` | Dominios de mineria         |
-| `iptv_block.txt` | Dominios de pirateria         |
-| `botnet_list.txt` | Dominios de servidores botnet    |
+| `bloqueo_dominios_riesgo_extremo.txt`      | Dominios filtrados de contenido ilegal (CSAM) |
+| `bloqueo_trafico_extremista_violento.txt`| Lista personalizada con dominios propios   |
+| `bloqueo_estafas.txt` | Dominios de phishing      |
+| `bloqueo_dominio_malicioso.txt`| Dominios de malware    |
+| `bloqueo_mineria_no_autorizada.txt` | Dominios de mineria      
+| `bloqueo_streaming_no_legal.txt` | Dominios de pirateria     |
+| `bloqueo_botnet_conocidas.txt` | Dominios de servidores botnet    |
