@@ -9,7 +9,6 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
 - BlocklistProject – Lista de porn (porn.txt)
   https://github.com/blocklistproject/Lists/blob/master/porn.txt
 - StevenBlack hosts (https://github.com/StevenBlack/hosts)
-
 - BlocklistProject – Lista de drogas (drugs.txt)
   https://github.com/blocklistproject/Lists/blob/master/drugs.txt
 - StevenBlack – Hosts extendidos (porn/social/gambling/fakenews)
@@ -19,6 +18,9 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://github.com/hagezi/dns-blocklists/tree/main/domains
 - HaGeZi – Threat Intelligence Feed (tif.txt)
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
+- https://urlhaus.abuse.ch/downloads/hostfile/
+- https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
+- https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
   
 ## Criterios de búsqueda:
 ## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
