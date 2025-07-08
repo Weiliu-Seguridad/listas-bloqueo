@@ -12,23 +12,23 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://github.com/blocklistproject/Lists/blob/master/drugs.txt
 - BlocklistProject – Lista de malware (malware.txt)
   https://github.com/blocklistproject/Lists/blob/master/malware.txt
-- StevenBlack hosts (https://github.com/StevenBlack/hosts)
-- StevenBlack – Hosts extendidos (porn/social/gambling/fakenews)
-  https://github.com/StevenBlack/hosts
+- StevenBlack hosts extendidos (https://github.com/StevenBlack/hosts)
 - HaGeZi Blocklists – Pro++ (pro.plus.txt)
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
-  https://github.com/hagezi/dns-blocklists/tree/main/domains
 - HaGeZi – Threat Intelligence Feed (tif.txt)
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 - https://urlhaus.abuse.ch/downloads/hostfile/
-- https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+- 
+- https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
+
   
 ## Criterios de búsqueda:
 ## abuse, child, ilegal, csam, exploit, pedo, preteen, underage, molest, loli, teenporn, incest
 ## arms, gun, weapon, drugs, cocaine, heroine, meth, fentanyl, opiate, trafficking, humantraffiking, torture, gore, murder, rape, terror, darkweb, blackmarket, deepweb
 ## sendero luminoso, camarada gonzalo, etc.
 ## malware, pishing, trojan, worm, spyware, steals, ranson, keylogger, etc.
+## iptv, stream, flix, torrent, m3v, watchfree, freeflix, pelis, etc.
 
 ## Archivos en este repositorio:
 
