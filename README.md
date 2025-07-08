@@ -8,9 +8,11 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://github.com/blocklistproject/Lists/blob/master/abuse.txt
 - BlocklistProject – Lista de porn (porn.txt)
   https://github.com/blocklistproject/Lists/blob/master/porn.txt
-- StevenBlack hosts (https://github.com/StevenBlack/hosts)
 - BlocklistProject – Lista de drogas (drugs.txt)
   https://github.com/blocklistproject/Lists/blob/master/drugs.txt
+- BlocklistProject – Lista de malware (malware.txt)
+  https://github.com/blocklistproject/Lists/blob/master/malware.txt
+- StevenBlack hosts (https://github.com/StevenBlack/hosts)
 - StevenBlack – Hosts extendidos (porn/social/gambling/fakenews)
   https://github.com/StevenBlack/hosts
 - HaGeZi Blocklists – Pro++ (pro.plus.txt)
@@ -19,8 +21,6 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
 - HaGeZi – Threat Intelligence Feed (tif.txt)
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 - https://urlhaus.abuse.ch/downloads/hostfile/
-- BlocklistProject – Lista de malware (malware.txt)
-  https://github.com/blocklistproject/Lists/blob/master/malware.txt
 - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
   
