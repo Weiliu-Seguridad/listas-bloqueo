@@ -20,7 +20,7 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 - https://urlhaus.abuse.ch/downloads/hostfile/
 - BlocklistProject – Lista de malware (malware.txt)
-  https://github.com/blocklistproject/Lists/blob/master/abuse.txt
+  https://github.com/blocklistproject/Lists/blob/master/malware.txt
 - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
   
