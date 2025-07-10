@@ -23,6 +23,8 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
 - HaGeZi – Threat Intelligence Feed (tif.txt)
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
+- Hagezi Threat feed (Multi Ultimate o Multi Light)
+  https://github.com/hagezi/dns-blocklists/tree/main/adblock
 - https://urlhaus.abuse.ch/downloads/hostfile/
 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 - AdGuard DNS Filter – Crypto-related domains
