@@ -12,11 +12,11 @@ Este repositorio contiene archivos de seguridad filtrados manualmente por Ing. A
   https://github.com/blocklistproject/Lists/blob/master/drugs.txt
 - BlocklistProject – Lista de malware (malware.txt)
   https://github.com/blocklistproject/Lists/blob/master/malware.txt
-  - BlocklistProject – Lista de pirateria (piracy.txt)
+- BlocklistProject – Lista de pirateria (piracy.txt)
   https://github.com/blocklistproject/Lists/blob/master/malware.txt
 - BlocklistProject – Lista de estafas (scam.txt)
   https://github.com/blocklistproject/Lists/blob/master/malware.txt
-  - BlocklistProject – Lista de pishing (pishing.txt)
+- BlocklistProject – Lista de pishing (pishing.txt)
   https://github.com/blocklistproject/Lists/blob/master/pishing.txt
 - StevenBlack hosts extendidos (https://github.com/StevenBlack/hosts)
 - HaGeZi Blocklists – Pro++ (pro.plus.txt)
