@@ -21,6 +21,7 @@
 # - Sitios legales o de contenido adulto no penalizado
 #
 # ============================================================================
+prueba-mineria.com
 2miners.com
 2miners.ru
 mastermining.net
@@ -777,4 +778,5 @@ shamining.com
 api.linkmine.co.kr
 ad.admine.co.kr
 examiner.com
+
 drawpad.org
