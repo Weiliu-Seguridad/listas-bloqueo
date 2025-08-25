@@ -21,6 +21,7 @@
 # - Sitios legales o de contenido adulto no penalizado
 #
 # ============================================================================
+prueba-estafas.com
 1-paypal.com
 1team-1paypal-1acc3s.com
 24option-scam.com
@@ -916,4 +917,5 @@ your-account-paypal-has-been-locked.adarve.com.br
 bitcoingoldexpert.com
 bitcoinminingplan.com
 vipticketgiveaway.com
+
 connectwalletnow.com
