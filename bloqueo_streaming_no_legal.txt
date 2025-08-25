@@ -22,6 +22,7 @@
 # - Sitios legales o de contenido adulto no penalizado
 #
 # ============================================================================
+prueba-streaming.com
 01torrent.com
 0torrent.com
 4k-abonnementiptv.fr
@@ -330,4 +331,5 @@ baner.energy-torrent.com
 ads.energy-torrent.com
 star-iptv.fr
 thetorrentz.fr
+
 ads.sumotorrent.com
