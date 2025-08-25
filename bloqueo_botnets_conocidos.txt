@@ -20,6 +20,7 @@
 # - Sitios legales o de contenido adulto no penalizado
 #
 # ============================================================================
+pruebas-botnet.com
 bot.networkbot.org
 hobobot.net
 onyxsecuregate.de
@@ -934,4 +935,5 @@ birth-control.1.p2l.info
 moviegate1.net
 net.botwork.cc
 springbot.com
+
 tagcommander.com
