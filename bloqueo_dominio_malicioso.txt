@@ -20,6 +20,7 @@
 # - Sitios legales o de contenido adulto no penalizado
 #
 # ============================================================================
+pruebas-malware.com
 1stspywarekiller.com
 25z5g623wpqpdwis.onion.to
 2affeyx2i6lcqce4.onion.to
@@ -706,3 +707,4 @@ silkworm.waspexpert.com
 silkworm.westwoodmbc.org
 data-39822b659f.wormser-zeitung.de
 data-a01a8a1ba4.wormser-zeitung.de
+
